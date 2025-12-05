@@ -47,3 +47,15 @@ The study found that international students have a higher risk of mental health 
 1. First identify the three best-performing industries based on the number of new unicorns created in 2019, 2020, and 2021 combined.
 2. From those industries (1), you will need to find the number of unicorns within these industries (2), the year that they became a unicorn (3), and their average valuation, converted to billions of dollars and rounded to two decimal places (4).
 
+
+## 5 Analyzing and formatting PostgreSQL Sales Data
+
+
+
+**Description**: In this project, you will work with data from a hypothetical Super Store to challenge and enhance your SQL skills in data cleaning. This project will engage you in identifying top categories based on the highest profit margins and detecting missing values, utilizing your comprehensive knowledge of SQL concepts.
+
+**Dataset**:The database consists of 4 tables: *orders* (info about each order), *returned orders* (info on whether a order was retuened or not), *people* (name of the Salesperson accredited with the order and the region they operate in), *products* (info about the products ordered)
+
+**Questions to answer** 
+1. Find the top 5 products from each category based on highest total sales.
+2. Calculate the quantity for orders with missing values in the quantity column
