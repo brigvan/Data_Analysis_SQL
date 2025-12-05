@@ -42,6 +42,7 @@ The study found that international students have a higher risk of mental health 
 2. *Funding*: for every company, it contains information about the company value in US dollars,the amount of funding raised in US dollars, a list of key investors in the company
 3. *Industries*: for every company, it describes the industry that the company operates in.
 4. *Company*:  for every company id, it displays the name of the company well as the city/country/continent where the company is headquartered.
+   
 **Questions to answer** 
 1. First identify the three best-performing industries based on the number of new unicorns created in 2019, 2020, and 2021 combined.
 2. From those industries (1), you will need to find the number of unicorns within these industries (2), the year that they became a unicorn (3), and their average valuation, converted to billions of dollars and rounded to two decimal places (4).
