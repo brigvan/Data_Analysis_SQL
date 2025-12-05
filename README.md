@@ -59,3 +59,14 @@ The study found that international students have a higher risk of mental health 
 **Questions to answer** 
 1. Find the top 5 products from each category based on highest total sales.
 2. Calculate the quantity for orders with missing values in the quantity column
+
+
+## 6 Exploring Trends in American Baby Names
+**Description**: How have American baby name tastes changed since 1920? Which names have remained popular for over 100 years, and how do those names compare to more recent top baby names? These are considerations for many new parents, but the skills you'll practice while answering these queries are broadly applicable.
+
+**Dataset**:You'll be working with data provided by the United States Social Security Administration, which lists first names along with the number and sex of babies they were given to in each year. For processing speed purposes, the dataset is limited to first names which were given to over 5,000 American babies in a given year. The data spans 101 years, from 1920 through 2020.
+
+**Questions to answer** 
+1. List the first five names in alphabetical order and find out if each name is "Classic" or "Trendy.
+2. What were the top 20 male names overall, and how did the name Paul rank?
+3. Which female names appeared in both 1920 and 2020?
