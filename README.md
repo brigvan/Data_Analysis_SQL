@@ -70,3 +70,17 @@ The study found that international students have a higher risk of mental health 
 1. List the first five names in alphabetical order and find out if each name is "Classic" or "Trendy.
 2. What were the top 20 male names overall, and how did the name Paul rank?
 3. Which female names appeared in both 1920 and 2020?
+
+
+## 7 Impact Analysis of GoodThought NGO Initiatives
+**Description**: GoodThought NGO has been a catalyst for positive change, focusing its efforts on education, healthcare, and sustainable development to make a significant difference in communities worldwide. With this mission, GoodThought has orchestrated an array of assignments aimed at uplifting underprivileged populations and fostering long-term growth.
+This project offers a hands-on opportunity to explore how data-driven insights can direct and enhance these humanitarian efforts.
+
+**Dataset**:the GoodThought PostgreSQL database, which encapsulates detailed records of assignments, funding, impacts, and donor activities from 2010 to 2023. This comprehensive dataset includes:
+1. *Assignments*: Details about each project, including its name, duration (start and end dates), budget, geographical region, and the impact score.
+2. *Donations*: Records of financial contributions, linked to specific donors and assignments, highlighting how financial support is allocated and utilized.
+3. *Donors*: Information on individuals and organizations that fund GoodThought’s projects, including donor types.
+
+**Questions to answer** 
+1. List the top five assignments based on total value of donations, categorized by donor type. 
+2. Identify the assignment with the highest impact score in each region, ensuring that each listed assignment has received at least one donation. 
